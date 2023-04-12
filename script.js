@@ -4,7 +4,7 @@ function insert_Row() {
   let html = `
   <tr>
   <td>New Cell1</td>
-  <td>new Cell2</td>
+  <td>New Cell2</td>
   </tr> 
   `
   table.insertAdjacentHTML('afterbegin', html);
