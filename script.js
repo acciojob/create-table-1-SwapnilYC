@@ -1,7 +1,7 @@
 let table = document.getElementById('sampleTable');
-let i = 0;
 function insert_Row() {
     //Write your code here
+let i = 0;
   let html = `
   <tr>
   <td>New Cell${++i}</td>
