@@ -17,6 +17,6 @@ let table = document.getElementById('sampleTable');
 let newRow = table.insertRow(0);
 let newCell1 = newRow.insertCell(0);
 let newCell2 = newRow.insertCell(1);
-newCell1.innerHTML = 'New Cell 1';
-newCell2.innerHTML = 'New Cell 2';
+newCell1.innerHTML = 'New Cell1';
+newCell2.innerHTML = 'New Cell2';
 }
